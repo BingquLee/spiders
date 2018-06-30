@@ -1,0 +1,8 @@
+requests
+readability
+retrying
+lxml
+pymysql
+scrapy
+selenium
+pybloom
