@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+﻿<<<<<<< HEAD
 *.zip
 .idea
 *.pyc
@@ -120,4 +120,3 @@ venv.bak/
 
 # mypy
 .mypy_cache/
->>>>>>> 2390b011b0c692e0c475defe4aa95770cca2613c
