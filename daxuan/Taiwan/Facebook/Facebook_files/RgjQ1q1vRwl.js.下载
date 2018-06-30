@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["omm2h"]); }
+
+__d("UFICommentVPVDLoggingConfig",[],(function(a,b,c,d,e,f){"use strict";e.exports={idleTimeout:5e3,minDurationToLog:100,minVisibleSize:200}}),null);

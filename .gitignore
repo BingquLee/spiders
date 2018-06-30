@@ -1,0 +1,16 @@
+*.zip
+.idea
+*.pyc
+project/
+venv/
+新建文件夹/
+Twitter_Scrapy/
+test/
+'新建文件夹 (2)'/
+*.js
+*.css
+*.html
+*.jpg
+*.png
+*.csv
+*.json

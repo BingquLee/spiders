@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["xOQve"]); }
+
+__d("AdsUEditorAdgroupSetChildDescriptionDataActionPlugin",[],(function(a,b,c,d,e,f){"use strict";a={key:"uEditorAdgroupSetChildDescription",actionType:"ADS_ADGROUP_EDITOR_SET_CHILD_DESCRIPTION"};e.exports=a}),null);

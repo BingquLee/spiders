@@ -1,0 +1,22 @@
+1528780955499	geckodriver	INFO	geckodriver 0.20.1
+1528780955506	geckodriver	INFO	Listening on 127.0.0.1:55021
+1528780958519	mozrunner::runner	INFO	Running command: "f:\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\bingq\\AppData\\Local\\Temp\\rust_mozprofile.MwPAKvfvPzdn"
+Unable to read VR Path Registry from C:\Users\bingq\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\bingq\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\bingq\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\bingq\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\bingq\AppData\Local\openvr\openvrpaths.vrpath
+1528780961457	Marionette	INFO	Listening on port 55041
+1528780961637	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i3ku4/yx/l/zh_CN/0nD3MylGAlN.js, line 1568: unreachable code after return statement
+[Parent 24600, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 25584, Chrome_Chi[Child 12080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 24600, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21996, Chrome_ChildThread] WAR[GPU 17524, Chrome_ChildThread] WARNING
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+or: Channel error: cannot send/recv
+

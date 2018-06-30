@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["B+DEN"]); }
+
+__d("AdsUEditorCampaignUpdateLocationEditorSpecDataActionPlugin",[],(function(a,b,c,d,e,f){"use strict";a={key:"uEditorCampaignUpdateLocationEditorSpec",actionType:"ADS_CAMPAIGN_UPDATE_LOCATION_EDITOR_SPEC"};e.exports=a}),null);

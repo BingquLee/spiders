@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["e9N5G"]); }
+
+__d("VideoComposerAdBreakTimeOffsetEditorArrow.react",["cx","React"],(function(a,b,c,d,e,f,g){"use strict";__p&&__p();var h;h=babelHelpers.inherits(a,b("React").Component);h&&h.prototype;a.prototype.render=function(){var a=this.props.disabled;return b("React").createElement("div",{className:"_4vd_"},b("React").createElement("div",{className:(a?"":"_4ve1")+(a?" _4ve2":""),onMouseDown:this.props.onClickUpArrow}),b("React").createElement("div",{className:(a?"":"_4ve4")+(a?" _4ve9":""),onMouseDown:this.props.onClickDownArrow}))};function a(){h.apply(this,arguments)}e.exports=a}),null);

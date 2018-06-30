@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["e6a9a"]); }
+
+__d("AdsUEditorAdgroupAddChildAttachmentActionPlugin",[],(function(a,b,c,d,e,f){"use strict";a={key:"uEditorAdgroupAddChildAttachment",actionType:"ADS_ADGROUP_EDITOR_ADD_CHILD_ATTACHMENT"};e.exports=a}),null);

@@ -1,0 +1,1 @@
+[2018-06-28 20:10:45,078] - wx_spider.py - [line:62] - [INFO]: requests url: http://weixin.sogou.com/weixin?query=%E5%8D%8E%E8%8C%82%E8%82%A1%E4%BB%BD&type=2&page=1&ie=utf8, page: 1

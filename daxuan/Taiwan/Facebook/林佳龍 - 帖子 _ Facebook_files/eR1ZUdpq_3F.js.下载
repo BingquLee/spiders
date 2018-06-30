@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["kivmw"]); }
+
+__d("VideoComposerHeightConfig",[],(function(a,b,c,d,e,f){"use strict";a={LARGE_HEIGHT:800,STANDARD_HEIGHT:720,SMALL_HEIGHT:660,EXTRA_SMALL_HEIGHT:560,DIALOG_VERTICAL_MARGIN:80};e.exports=a}),null);

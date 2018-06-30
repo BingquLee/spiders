@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["WTSTI"]); }
+
+__d("VideoComposerTabSection.react",["cx","React","VideoComposerDialogTabUtils"],(function(a,b,c,d,e,f,g){"use strict";var h;h=babelHelpers.inherits(a,b("React").Component);h&&h.prototype;a.prototype.render=function(){return b("React").createElement("div",{className:"_1k_f"},b("VideoComposerDialogTabUtils").getTabContainers(this.props.enabledTabs))};function a(){h.apply(this,arguments)}e.exports=a}),null);

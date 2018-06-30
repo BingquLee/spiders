@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["jxtMV"]); }
+
+__d("VideoComposerCaptionEditorPlayerLoading.react",["cx","React","SUIAtlasTheme","SUISpinner.react"],(function(a,b,c,d,e,f,g){"use strict";var h;h=babelHelpers.inherits(a,b("React").Component);h&&h.prototype;a.prototype.render=function(){return b("React").createElement("span",{className:"_178i"},b("React").createElement("span",{className:"_178j"},b("React").createElement(b("SUISpinner.react"),{theme:b("SUIAtlasTheme")}),b("React").createElement("span",null,this.props.text)))};function a(){h.apply(this,arguments)}e.exports=a}),null);

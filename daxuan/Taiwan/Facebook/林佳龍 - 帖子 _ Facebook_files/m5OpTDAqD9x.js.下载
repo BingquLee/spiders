@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["alpLW"]); }
+
+__d("VideoComposerAdBreakVideoRightsNotice.react",["cx","fbt","React","VideoComposerAdBreakNUX.react"],(function(a,b,c,d,e,f,g,h){"use strict";function a(a){return a.videoRightsAgreed?null:b("React").createElement("div",{className:"_3-96"},b("React").createElement(b("VideoComposerAdBreakNUX.react"),{description:h._("\u4e3a\u63d2\u64ad\u5e7f\u544a\uff0c\u4f60\u540c\u610f\u58f0\u660e\u4f60\u5bf9\u89c6\u9891\u7684\u6240\u6709\u5185\u5bb9\u62e5\u6709\u4f7f\u7528\u6743\u3002"),dismissible:!1,style:"notice"}))}e.exports=a}),null);

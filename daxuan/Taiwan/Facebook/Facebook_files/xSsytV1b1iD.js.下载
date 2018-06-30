@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["JtsJl"]); }
+
+__d("AdsUEditorAdgroupSetChildNameDataActionPlugin",[],(function(a,b,c,d,e,f){"use strict";a={key:"uEditorAdgroupSetChildName",actionType:"ADS_ADGROUP_EDITOR_SET_CHILD_NAME"};e.exports=a}),null);

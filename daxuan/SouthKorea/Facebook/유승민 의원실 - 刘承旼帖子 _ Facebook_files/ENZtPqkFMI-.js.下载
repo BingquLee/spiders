@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["Akz62"]); }
+
+__d("VideoComposerAdBreakAutoAdjustmentTooltip.react",["fbt","React","VideoComposerAdBreakNUX.react"],(function(a,b,c,d,e,f,g){"use strict";var h=5575;function a(a){return b("React").createElement(b("VideoComposerAdBreakNUX.react"),{contextRef:a.contextRef,description:b("React").createElement("div",null,g._("To give viewers the best possible experience, ad placements that interrupt speech in the video may be moved slightly earlier or later.")),dismissible:!0,nuxID:h,style:"tooltip",title:g._("Optimized Ad Break Placements")})}e.exports=a}),null);

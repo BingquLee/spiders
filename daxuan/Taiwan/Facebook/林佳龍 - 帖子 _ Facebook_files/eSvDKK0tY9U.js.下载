@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["RPj44"]); }
+
+__d("VideoComposerMomentsOfInterestActions",["VideoComposerActionTypes","VideoComposerDispatcher"],(function(a,b,c,d,e,f){"use strict";a=function(a){a={type:b("VideoComposerActionTypes").UPDATE_MOMENTS_OF_INTEREST,momentsOfInterest:a};b("VideoComposerDispatcher").dispatch(a)};e.exports={updateMomentsOfInterest:a}}),null);

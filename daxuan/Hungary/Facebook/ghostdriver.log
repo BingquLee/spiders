@@ -1,0 +1,12 @@
+[INFO  - 2018-06-07T19:35:56.038Z] GhostDriver - Main - running on port 13427
+[INFO  - 2018-06-07T19:35:58.068Z] Session [00772700-6a8a-11e8-b3ec-a900f79b6194] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-06-07T19:35:58.068Z] Session [00772700-6a8a-11e8-b3ec-a900f79b6194] - page.customHeaders:  - {}
+[INFO  - 2018-06-07T19:35:58.068Z] Session [00772700-6a8a-11e8-b3ec-a900f79b6194] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-06-07T19:35:58.069Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 00772700-6a8a-11e8-b3ec-a900f79b6194
+[ERROR - 2018-06-07T19:37:02.619Z] Session [00772700-6a8a-11e8-b3ec-a900f79b6194] - page.onError - msg: ErrorUtils caught an error: "Minified exception occurred; use the non-minified dev environment for the ful...". Subsequent errors won't be logged; see https://fburl.com/debugjs.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-06-07T19:37:02.620Z] Session [00772700-6a8a-11e8-b3ec-a900f79b6194] - page.onError - stack:
+  reportError (https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/v9ehrqIlPdo.js:57)
+
+  phantomjs://platform/console++.js:263 in error

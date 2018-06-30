@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["METyn"]); }
+
+__d("UFILiveStreamingViewerLoggerCommentLocation",[],(function(a,b,c,d,e,f){e.exports=Object.freeze({ACTIVE_MAIN_THREAD:"active_main_thread",ACTIVE_REPLY_THREAD:"active_reply_thread",BACKGROUND_MAIN_THREAD:"background_main_thread"})}),null);

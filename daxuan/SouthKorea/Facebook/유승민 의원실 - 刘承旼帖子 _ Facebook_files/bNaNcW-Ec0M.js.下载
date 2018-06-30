@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["ULCYz"]); }
+
+__d("VideoComposerRightSection.react",["cx","React","VideoComposerDialogConstants","VideoComposerTabSectionContainer.react","VideoComposerVideoTypeSectionContainer.react"],(function(a,b,c,d,e,f,g){"use strict";var h;h=babelHelpers.inherits(a,b("React").Component);h&&h.prototype;a.prototype.render=function(){return b("React").createElement("div",{className:"_kwk",style:{width:b("VideoComposerDialogConstants").RIGHT_SECTION_WIDTH}},b("React").createElement(b("VideoComposerVideoTypeSectionContainer.react"),null),b("React").createElement(b("VideoComposerTabSectionContainer.react"),null))};function a(){h.apply(this,arguments)}e.exports=a}),null);
